@@ -1,3 +1,9 @@
+Here I provide a UI of Counter Application is show as below,
+![image](https://github.com/user-attachments/assets/988b3c18-7c01-418d-b3a0-e547caa40f4a)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
